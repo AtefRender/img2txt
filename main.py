@@ -5,7 +5,7 @@ import random
 from datetime import datetime
 from server import server
 
-API_KEY = '6288809033:AAG8CAgnL15Ushi3LtY4C2qRVlq7rXc3xf0'
+API_KEY = '6288809033:AAH-WG0R01b_KHuG1rvjAbissRMiZF3_xsQ'
 CHATID = '5966905118'
 bot = telebot.TeleBot(API_KEY)
 
